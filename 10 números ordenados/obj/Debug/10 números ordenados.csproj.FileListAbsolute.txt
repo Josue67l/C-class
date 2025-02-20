@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\10 números ordenados\bin\Debug\10 números ordenados.exe.config
+C:\Users\USER\source\repos\10 números ordenados\bin\Debug\10 números ordenados.exe
+C:\Users\USER\source\repos\10 números ordenados\bin\Debug\10 números ordenados.pdb
+C:\Users\USER\source\repos\10 números ordenados\obj\Debug\10 números ordenados.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\10 números ordenados\obj\Debug\10 números ordenados.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\10 números ordenados\obj\Debug\10 números ordenados.exe
+C:\Users\USER\source\repos\10 números ordenados\obj\Debug\10 números ordenados.pdb
